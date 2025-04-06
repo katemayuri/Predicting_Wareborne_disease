@@ -1,0 +1,10 @@
+Experiment,Variant,Metric,RMSE,Forecasted_Value
+Smoothing,Variant 1,Visual,N/A,N/A
+Smoothing,Variant 2,Visual,N/A,N/A
+Smoothing,Variant 3,Visual,N/A,N/A
+Missing Imputation,Variant 1,RMSE,0.2799093254763389,N/A
+Missing Imputation,Variant 2,RMSE,0.2799093254763389,N/A
+Missing Imputation,Variant 3,RMSE,0.2799093254763389,N/A
+Forecasting (1-day),Variant 1,RMSE,3.0605246156099475,[0.73947538]
+Forecasting (1-day),Variant 2,RMSE,3.7999918408366127,[8.15916339e-06]
+Forecasting (1-day),Variant 3,RMSE,3.7837623794210846,[0.01623762]
